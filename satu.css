@@ -1,0 +1,37 @@
+body{
+	background-color: #c9a0dc
+}
+.margin{
+	background-color: purple;
+	width: 300px;
+	height: 600px;
+	margin: 0 auto;
+	border-radius: 25px;
+}
+h1{
+	text-align: center;
+	color: white;
+}
+input{
+	border-color: #ff00ff;
+	height: 20px;
+	background-color: purple;
+}
+form{
+	 text-align: center;
+}
+button{
+	border-radius: 8px;
+	width: 120px;
+	background-color: #ff00ff;
+	border-color: #ff00ff;
+	height: 25px;
+	color: white;
+}
+form input::placeholder{
+	color: white;
+}
+
+
+
+

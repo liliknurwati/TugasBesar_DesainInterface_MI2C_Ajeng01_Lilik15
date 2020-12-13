@@ -1,0 +1,27 @@
+.margin{
+	color: white;
+  	background-color: purple;
+  	width: 300px;
+  	height: 600px;
+  	margin: 0 auto;
+  	border-radius: 25px;
+  	padding: 14px 16px;
+}
+img {
+   width: 120px;
+   height: 140px;
+   border-radius: 50%;
+}
+body{
+	background-color: #c9a0dc
+}
+input{
+	border-color: #ff00ff;
+	height: 20px;
+	background-color: white;
+}
+select{
+	border-color: #ff00ff;
+	height: 20px;
+	background-color: white;
+}
